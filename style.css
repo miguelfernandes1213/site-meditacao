@@ -7,12 +7,14 @@
 } 
 
 body {
-    background-color: #CCD99C;
+    background-image: url(img/meditacao-aprender-beneficios.jpg);
+    background-size: cover;
+    background-attachment: fixed;
 
 }
 
 .navbar {
-background-color: #65A603;
+background-color: #03658C;
 color: #65A603;
 border-bottom: 0.5px solid #65A603;
 width: 100%;
@@ -105,6 +107,41 @@ main {
 img {
  position: absolute;
  top: 240px;
- left: 1100px;
+ left: 1150px;
+}
+ 
+.sobre {
+position: absolute;
+top: 1640px;
+left: auto;
+background-color: ;
+
+
 }
 
+.serviços {
+    position: absolute;
+    top: 2000px;
+}
+
+.sobre {
+    line-height: 21px;
+}
+
+.serviços {
+    line-height: 25px;
+}
+
+
+.segunda-imagem {
+    top: 900px;
+    left: 780px;
+    width: 50px;
+}
+
+.terceira-imagem {
+    top: 900px;
+    left: 840px;
+    width: 50px;
+
+}
